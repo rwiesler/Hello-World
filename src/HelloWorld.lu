@@ -1,0 +1,4 @@
+#!/usr/bin/lua
+
+-- hello world example in lua
+print ("Hello World!")
